@@ -48,6 +48,14 @@ Person.create([
     birthdate: Date.new(1980, 1, 17)
   },
   {
+    first_name: 'Kate',
+    last_name: 'Beckinsale',
+    avatar_url: 'http://www.prettydesigns.com/wp-content/uploads/2013/12/Kate-Beckinsale-Hairstyles-Beautiful-Half-up-Half-down.jpg',
+    email: 'kate@dummy.com',
+    phone: '12343233',
+    birthdate: Date.new(1973, 7, 26)
+  },
+  {
     first_name: 'Amparo',
     last_name: 'Grisales',
     avatar_url: 'https://candela-500700.c.cdn77.org/images/Amparo-Grisales-La-diva.jpg',
